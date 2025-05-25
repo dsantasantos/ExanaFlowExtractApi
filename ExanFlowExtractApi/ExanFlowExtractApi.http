@@ -1,0 +1,6 @@
+@ExanFlowExtractApi_HostAddress = http://localhost:5043
+
+GET {{ExanFlowExtractApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
